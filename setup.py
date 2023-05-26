@@ -8,5 +8,5 @@ setup(name='kfp-buildkit',
       author='Sebastian Alberternst',
       author_email='alberternst@gmail.com',
       url='https://github.com/salberternst/kfp-buildkit',
-      packages=['kfp-buildkit'],
+      packages=['kfp_buildkit'],
       )
