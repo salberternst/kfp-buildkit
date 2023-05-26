@@ -2,11 +2,11 @@
 
 from distutils.core import setup
 
-setup(name='docker',
+setup(name='kfp-buildkit',
       version='1.0',
       description='Small docker stub for the kfp client to build images using (rootless) buildkit',
       author='Sebastian Alberternst',
       author_email='alberternst@gmail.com',
       url='https://github.com/salberternst/kfp-buildkit',
-      packages=['docker'],
+      packages=['kfp-buildkit'],
       )
